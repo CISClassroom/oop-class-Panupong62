@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -27,6 +34,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,6 +66,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1576834427284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1576834427284" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1576834427284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1576834427284" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1576834427284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1576834427284" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1576834427284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1576834427284" />
     <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1576829768266">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -62,5 +90,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1576830459679" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1576833420644">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1576833420644" />
   </component>
 </project>
