@@ -36,5 +36,11 @@ public class Main {
 
 
     }
-    
+    public static void  find_CIS_Student(Student[] students){
+           for ( int i = 0 ; i < students.length; i++ ){
+               if (students[i].major == "cis"){
+                   System.out.println(i+1+"."+students[i].name);
+               }
+           }
+    }
 }
